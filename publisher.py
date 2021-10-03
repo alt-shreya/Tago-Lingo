@@ -4,7 +4,7 @@ class Publisher:
 
     def subscribe(self, subscriber):
         self.subs.append(subscriber)
-    
+
     def unsubscribe(self, subscriber):
         if self.subs.__contains__(subscriber):
             self.subs.remove(subscriber)
