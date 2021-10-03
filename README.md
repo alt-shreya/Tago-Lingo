@@ -4,12 +4,11 @@ Team: Data Science in Stockholm
 
 Challenge 1 : Interactive station for recording and crowdsourcing a multilingual speech dataset https://www.goethe.de/prj/one/en/aco/ver/hac/cha.html#i7094282
 
-
 ## Run it
 
 The project consists of different parts:
 - Face/gesture dection on Raspberry Pi
-- Main interface (now via web), in Flutter
+- Main interface (now via web), in Flutter - see https://github.com/jimm1034/challange_1_ui/tree/main/lib 
 - Language API server
 
 see requirements.txt for required libraries.
