@@ -1,8 +1,10 @@
-# Artificially Correct Challenge 1
+# Artificially Correct Challenge 1 - Team 1a
 
-Team: Data Science in Stockholm
+Challenge 1 : Interactive station for recording and crowdsourcing a multilingual speech dataset
 
-Challenge 1 : Interactive station for recording and crowdsourcing a multilingual speech dataset https://www.goethe.de/prj/one/en/aco/ver/hac/cha.html#i7094282
+Team 1a: Data Science in Stockholm
+-  [Concept doc](https://docs.google.com/document/d/1Jz-y8O6klXgqN_5tMxI8Ths5nY8XCw33q4dvrSSQfnQ/edit) | [Technical doc submission](https://docs.google.com/document/d/1QPxCbAu8YQ_8IrJqLWqkBUgI8C8m270VsehPtDh6MdY/edit) | [Top 5 pitch](https://www.canva.com/design/DAErwj0iZPg/VRoPFC9EaXIdMWS8SoqyPQ/view)
+
 
 ## Run it
 
