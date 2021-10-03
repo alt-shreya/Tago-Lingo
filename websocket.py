@@ -49,8 +49,9 @@ class Server:
                 print("hand gestures")
 
 
+server = Server()  # i'm sorry, very bad solution here
+
 if __name__ == "__main__":
-    server = Server()
     start_server = websockets.serve(server.ws_handler, "localhost", 4000)
     loop = asyncio.get_event_loop()
     loop.run_until_complete(start_server)
