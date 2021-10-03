@@ -4,7 +4,28 @@ Team: Data Science in Stockholm
 
 Challenge 1 : Interactive station for recording and crowdsourcing a multilingual speech dataset.
 
-Conducted by ZKM (Center for Art and Media, Karlsruhe).  
+Conducted by ZKM (Center for Art and Media, Karlsruhe).
+
+### Run it
+
+Start the language server:
+```sh
+uvicorn lang_api:app --reload
+```
+
+The language API now only supports `/words/[lang]` endpoint.
+`lang` is ISO 639-3 language code. Now has only `eng`, `deu` and `jpn`.
+```
+http://127.0.0.1:8000/words/eng
+```
+will give something like
+```json
+{
+    "word":"half",
+    "lang":"eng",
+    "difficulty": 1
+}
+```
 
 ### Background
 
