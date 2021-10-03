@@ -85,4 +85,4 @@ The following aspects of our design give it an advantage in achieving our goal o
 
 ## Partner
 
-ZKM - Center for Art and Media
+ZKM - Center for Art and Media https://zkm.de/en/project/the-intelligent-museum
